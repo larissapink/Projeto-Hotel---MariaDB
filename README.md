@@ -1,8 +1,11 @@
 # Projeto Hotel - MariaDB
 
 ## MODELAGEM E IMPLEMENTAÇÃO DE BANCO DE DADOS NO MARIADB
+
 Aluna: Larissa de Almeida Rosa
+
 Tema: Hotel
+
 Tecnologia Principal: MariaDB / MySQL
 
 ## Sobre o Projeto
