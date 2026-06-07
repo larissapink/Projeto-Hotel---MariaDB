@@ -9,7 +9,7 @@ Tema: Hotel
 Tecnologia Principal: MariaDB / MySQL
 
 ## Sobre o Projeto
-Criação da modelagem conceitual, lógica e implementação física de um sistema de banco de dados para gerenciamento de reservas em um hotel. 
+Criação da modelagem conceitual, lógica e implementação física de um sistema de banco de dados para gerenciamento de reservas em um hotel. O projeto foi desenvolvido para a disciplina de Banco de Dados ministrada pelo Professor Gabriel M. de Carvalho.
 
 ## Funcionalidades
 
